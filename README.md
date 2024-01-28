@@ -15,7 +15,7 @@ cd LanguageSwitch
 
 ###  собрать утилиту
 ```
-go build laguage_switch.go
+go build language_switch.go
 ```
 
 ###  копировать конфиг запуска
